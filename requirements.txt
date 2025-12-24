@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+ollama
+transformers
+torch
+pillow
+networkx
+opencv-python
+python-multipart
+

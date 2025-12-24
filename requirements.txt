@@ -7,4 +7,6 @@ pillow
 networkx
 opencv-python
 python-multipart
-
+streamlit
+numpy
+pandas
